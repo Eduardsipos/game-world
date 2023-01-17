@@ -10,7 +10,16 @@ body {
 }
 
 
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+p {
+  height: 110px , auto;
+  width: 15rem;
+ margin: auto;
+ padding-bottom: 1rem;
+  
+
 }
