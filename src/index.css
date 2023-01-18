@@ -6,20 +6,20 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: linear-gradient(to top, #5d8b61 0%, #077458 50%,  #347542 100%);
+  background: linear-gradient(to top, #5d8b61 0%, #077458 50%, #347542 100%);
 }
-
 
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
 p {
-  height: 110px , auto;
+  height: 300px, auto;
   width: 15rem;
- margin: auto;
- padding-bottom: 1rem;
-  
+  margin: auto;
+  padding-bottom: 1rem;
+
 
 }
