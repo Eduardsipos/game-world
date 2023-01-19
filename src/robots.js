@@ -8,7 +8,7 @@ export const robots = [
     id: 1,
     name: 'Breakout',
     username: 'Breakout',
-    description: 'Breakout is an arcade video game developed and published by Atari, Inc. and released on May 13, 1976. This is a mini vesion of that, using HTML, CSS and Javascrit',
+    description: 'Breakout is an arcade video game developed and published by Atari,Inc. and released on May 13, 1976. This is a mini version of that, using HTML, CSS and Javascript',
     url: 'https://eduardsipos.github.io/breakout-Game.github.io/'
 
   },
@@ -16,7 +16,7 @@ export const robots = [
     id: 2,
     name: 'Memory-game',
     username: 'Memory-game',
-    description: 'Or concentration card game in which all of the cards are laid face down on a surface and two cards are flipped face up over each turn. The object of the game is to turn over pairs of matching cards.',
+    description: 'Memory games or concentration card game in which all of the cards are laid face down on a surface and two cards are flipped face up over each turn. The object of the game is to turn over pairs of matching cards.    ',
     url: 'https://eduardsipos.github.io/memory-game/'
   },
   {
