@@ -23,7 +23,7 @@ export const robots = [
     id: 3,
     name: 'Space-invaders',
     username: 'Space-invaders',
-    description: 'Space Invaders[b] is a 1978 shoot-em up arcade game developed by Tomohiro Nishikado. This is also a miniversion of that, using HTML, CSS and Javascrit. ',
+    description: 'Space Invaders[b] is a 1978 shoot-em up arcade game developed by Tomohiro Nishikado. This is also a miniversion of that, using HTML, CSS and Javascript. ',
     url: 'https://eduardsipos.github.io/space-invaders/'
   },
   {
